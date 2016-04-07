@@ -10,6 +10,10 @@ Install the Arduino IDE (arduino.cc) and the following libraries:
 - NewPing (http://playground.arduino.cc/Code/NewPing)
 - Adafruit-Motor-Shield-library (https://github.com/adafruit/Adafruit-Motor-Shield-library)
 
+Extract the biolinker sub-folder into your Arduino sketchbook folder. Adjust values in config.cpp file to fit your printer design.
+
 ### Processing part
 
 Install the Processing IDE (https://processing.org/) and the G4P library (https://sourceforge.net/projects/g4p/).
+
+Extract the biolinker_interface folder into your Processing sketchbook folder.
