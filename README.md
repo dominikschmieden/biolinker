@@ -1,5 +1,5 @@
 # Biolinker
-Software to control a cell-printing 3D printer as presented by iGEM TU Delft 2015 (http://2015.igem.org/Team:TU_Delft)
+Software to control a cell-printing 3D printer as presented by iGEM TU Delft 2015 (http://2015.igem.org/Team:TU_Delft) and published in ACS Synthetic Biology (https://pubs.acs.org/doi/abs/10.1021/acssynbio.7b00424).
 
 ## Installation instructions
 ### Arduino part
